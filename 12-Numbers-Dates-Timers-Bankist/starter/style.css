@@ -295,3 +295,7 @@ h2 {
 .timer {
   font-weight: 600;
 }
+
+input{
+  background-color: rgb(110, 110, 110);
+}
